@@ -48,7 +48,9 @@ Terimakasih Juga Untuk Kang Banned:
 • Jarot
 • Tio
 • Aca Mirabel
-• Penyedia Layanan API
+• My Crush (crushnya mal)
+• Mall
+• Penyedia Layanan API 
 • Orang-orang yang Berdonasi
 ─────────────────────
 `
