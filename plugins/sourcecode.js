@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, 'https://telegra
 
 ◪ 📮 *SCRIPT BOT*
 │ *Script :* 
-│ ╰ https://github.com/sadteams/bot-md
+│ ╰ https://instagram.com/xzdk.m
 │ *Base :* 
 │ ╰ https://github.com/Fokusdotid/Family-MD
 ╰──────────═┅═──────────
